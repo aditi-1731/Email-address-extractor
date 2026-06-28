@@ -51,7 +51,7 @@ python main.py
 
 ```
 ===== Email Extraction Summary =====
-Total email addresses found : 8
+Total email addresses found : 6
 Unique email addresses      : 5
 Output saved to             : output.txt
 ====================================
