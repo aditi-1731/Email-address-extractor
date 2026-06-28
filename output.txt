@@ -1,0 +1,5 @@
+john.doe@gmail.com
+support@yahoo.com
+admin123@college.edu
+person_01@hotmail.com
+reception@yahoo.com
