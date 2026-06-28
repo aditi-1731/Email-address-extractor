@@ -6,7 +6,7 @@ __pycache__/
 venv/
 .env
 
-# IDE files
+# IDE 
 .vscode/
 .idea/
 
