@@ -1,6 +1,10 @@
 # Email Address Extractor
 
-A Python automation script that extracts email addresses from a text file using Regular Expressions (Regex).
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Regex](https://img.shields.io/badge/Regex-re-important)
+
+Extract email addresses from text files using Python Regular Expressions with duplicate removal and file export.
 
 ## Features
 
@@ -10,7 +14,7 @@ A Python automation script that extracts email addresses from a text file using 
 - Saves extracted emails to an output file
 - Displays a summary of total and unique email addresses
 
-## Technologies Used
+## Tech Stack
 
 - Python 3
 - Regular Expressions (`re`)
@@ -20,7 +24,7 @@ A Python automation script that extracts email addresses from a text file using 
 ## Project Structure
 
 ```
-CodeAlpha_TaskAutomation/
+Email-address-extractor/
 │── main.py
 │── input.txt
 │── output.txt
@@ -32,19 +36,19 @@ CodeAlpha_TaskAutomation/
 1. Clone the repository.
 
 ```
-git clone https://github.com/yourusername/CodeAlpha_TaskAutomation.git
+git clone https://github.com/aditi-1731/Email-address-extractor.git
 ```
 
 2. Navigate to the project directory.
 
 ```
-cd CodeAlpha_TaskAutomation
+cd Email-address-extractor
 ```
 
 3. Run the script.
 
 ```
-python main.py
+python email_extractor.py
 ```
 
 ## Sample Output
